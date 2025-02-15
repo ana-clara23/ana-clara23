@@ -1,0 +1,85 @@
+jogos
+<html>
+    <html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Laboratório Virtual de Matemática</title>
+    <link rel="stylesheet" href="lab.css"><link rel="stylesheet" href="equipe css.css">
+</head>
+<body>
+    <div class="imagem">
+        <img src="3 juntas m.png" alt="Imagem Acima do Cabeçalho">
+    </div>
+    
+    <header>
+      <!-- Título e Subtítulo -->
+        <div>
+     <h1>Laboratório Virtual</h1>
+     <h1>de Matemática</h1>
+            <p>LVM do CETI Baurélio Mangabeira</p>
+        </div>
+    
+    </header>
+    <nav>
+        <a href="Lab Prog.html">Inicio</a>
+        <a href="equipe html.html">Equipe</a>
+        <a href="jogos.html">Jogos</a>
+        <a href="#Grupo 1">Práticos</a>
+        <a href="#Grupo 1">Grupo 3</a>
+        <a href="#Grupo 1">Grupo 4</a>
+        <a href="#Grupo 1">Grupo 5</a>
+     
+    </nav>
+
+<head>
+    <title>Nossa Equipe</title>
+    <body>
+        <h1>Jogos matemáticos</h1>
+        <section id="jogos">
+            <div class="membro">
+                <img src="torre de hanoi.png" alt="Foto do jogo 1">
+                <h3><a href="https://clubes.obmep.org.br/blog/torre-de-hanoi/ " target="_blank">Torre de Hanói</a></h3>
+                <p>Pode ser usado para abordar os assuntos de Função Exponencial e Progressão Geométrica.</p>
+                <p>Descrição: O jogo consiste em passar todos os discos do primeiro para o último pino,
+                    usando os demais pinos como auxiliares,de maneira que um disco de raio maior nunca 
+                    fique em cima de outro menor. </p>
+            </div>
+            <div class="row">
+                <div class="membro">
+                    <img src="batalha naval.jpg" alt="Foto do membro 1">
+                    <h3><a href="https://papergames.io/pt-br/batalha-naval" target="_blank">Batalha Naval</a></h3>
+                    <p>Pode ser usado para trabalhar o plano cartesiano.</p>
+                    <p>Descrição: No qual os jogadores têm de "adivinhar"em que quadrados estão os navios do oponente,
+                        através de palpites que são dados por coordenadas no plano.</p>
+                </div>
+                <div class="membro">
+                    <img src="sudoku.jpeg" alt="Foto do membro 2">
+                    <h3><a href="https://www.sudokuonline.io/pt/?gad_source=1&gclid=EAIaIQobChMIzNC7sp2xiQMVZUFIAB3ouwhHEAAYASAAEgIbZfD_BwE" 
+                        target="_blank">Sudoku</a></h3>
+                    <p>Pode Ser usado para trabalhar raciocínio lógico-matemático.</p>
+                    <p>Descrição: É um famoso desafio de lógica em que a pessoa jogadora deve distribuir números,
+                        letras ou figuras nos espaços em branco no tabuleiro. A finalidade do jogo é preencher as células vazias, 
+                        com um número em cada célula, de forma que cada coluna, linha e região contenham os números 1-9 
+                        apenas uma vez.</p>
+                </div>
+                <div class="membro">
+                    <img src="foto3.jpg" alt="Foto do membro 3">
+                    <h3>Nome do Membro 3</h3>
+                    <p>Cargo: Gerente de Projetos</p>
+                    <p>Descrição: [Breve descrição sobre o membro]</p>
+                </div>
+                <div class="membro">
+                    <img src="foto4.jpg" alt="Foto do membro 4">
+                    <h3>Nome do Membro 4</h3>
+                    <p>Cargo: Analista</p>
+                    <p>Descrição: [Breve descrição sobre o membro]</p>
+                </div>
+            </div>
+        </section>
+        <footer>
+            <p>&copy; 2024 Laboratório Virtual de Matemática do CETI Baurléio Mangabeira. Todos os direitos reservados.</p>
+        </footer>
+    </body>
+</html>
